@@ -1,0 +1,48 @@
+[
+    {
+      "username": "user1",
+      "password": "password1",
+      "role": "user"
+    },
+    {
+      "username": "user2",
+      "password": "password2",
+      "role": "user"
+    },
+    {
+      "username": "user3",
+      "password": "password3",
+      "role": "user"
+    },
+    {
+      "username": "user4",
+      "password": "password4",
+      "role": "user"
+    },
+    {
+      "username": "user5",
+      "password": "password5",
+      "role": "user"
+    },
+    {
+      "username": "user6",
+      "password": "password6",
+      "role": "user"
+    },
+    {
+      "username": "user7",
+      "password": "password7",
+      "role": "user"
+    },
+    {
+      "username": "therapist1",
+      "password": "therapistpassword1",
+      "role": "therapist"
+    },
+    {
+      "username": "therapist2",
+      "password": "therapistpassword2",
+      "role": "therapist"
+    }
+  ]
+  
